@@ -57,7 +57,7 @@ This project was developed by the following students:
 
 | Role | Github | Email |
 | :--- | :--- | :--- |
-| **Leader** | [mowtiie](https://github.com/mowtiie) | vrixzandro.jm8b9@slmail.me |
+| **Leader** | [mowtiie](https://github.com/mowtiie) | contact@mowtiie.cc |
 | **Member** | [Tutsy](https://github.com/Tutsy) | markkerwinballelos@gmail.com |
 | **Member** | [villalobosjames30](https://github.com/villalobosjames30) | villalobosjamescarl30@gmail.com |
 | **Member** | [Adrienne20894](https://github.com/Adrienne20894) | jaloconadrienne@gmail.com |
